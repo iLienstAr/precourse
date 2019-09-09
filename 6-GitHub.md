@@ -21,7 +21,7 @@ This page outlines the key features of GitHub we'll be using in the first module
 
 ## What is Github
 
-There are soooo many answers to this question.  D.R.Y.
+There are soooo many good answers to this question on the web, let us know if we forgot one!
 
 * [in their own words](https://www.youtube.com/watch?v=w3jLJU7DT5E)
 * [in codebasics' words](https://www.youtube.com/watch?v=Bg9IAquDsDg)
@@ -34,7 +34,7 @@ ___
 
 ## Making a GitHub Account
 
-* [How To](https://services.github.com/on-demand/intro-to-github/create-github-account)
+* [How To Make An Account](https://services.github.com/on-demand/intro-to-github/create-github-account)
 
 Choosing a user name is important, it will stay with your FOREVER! 
 
