@@ -76,7 +76,7 @@ To help you keep focused and study with confidence, we've organized the precours
     * what's it all about, being a developer?
     * using glitch for html/css projects
 * :hatching_chick:
-    * deploying to GitHub pages from glitch
+    * push to GitHub pages from your computer
 * :hatched_chick: 
     * get fancy with canvas, css, ...
 
