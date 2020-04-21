@@ -1,6 +1,6 @@
 # Hack Your Future BE Precourse
 
-The main objective for this precourse is to get you ready for what's coming in your next 6 months, and to e-meet each other before the first day of class.  The focus of your assignments will be on using GitHub and homework workflow so you can focus on the cool stuff from day 1.
+The main objective for this precourse is to get you ready for what's coming in your next 7 months, and to e-meet each other before the first day of class.  The focus of your assignments will be on using GitHub and homework workflow so you can focus on the cool stuff from day 1.
 
 ### Index
 * practical stuff
@@ -55,7 +55,7 @@ Not all assignments are created equal.  These 3 emoji's will help you figure out
 
 ---
 
-## learning objectives
+## Learning objectives
 
 To help you keep focused and study with confidence, we've organized the precourse work by priority:
 
