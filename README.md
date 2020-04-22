@@ -69,7 +69,7 @@ To help you keep focused and study with confidence, we've organized the precours
 
 ### Your Machine
 * :egg:
-    * install all the softwares listed in [5: dev environment](./5-dev-environment.md)
+    * install all the softwares listed in [./3-installations.md](./3-installations.md)
 
 ### Coding
 * :egg:
