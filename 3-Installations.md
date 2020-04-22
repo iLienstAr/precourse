@@ -3,7 +3,7 @@
 Take a moment to make sure you have all of the applications you will need for the course.
 
 ### Index
-* [FireFox](#firefox)
+* [Browsers](#browsers)
 * [VSC](#VSC)
 * [GitKraken](#a-git-client)
 * [terminal](#terminal)
@@ -13,11 +13,13 @@ Take a moment to make sure you have all of the applications you will need for th
 ---
 
 
-## FireFox
+## Browsers
 
-So far in your life, you have probably used your browser to troll the web and look at cats.  In our course you will learn to use your browser to edit, test, inspect, and debug code.  Any browser is fine for trolling, but not all browsers have all the tools you need to develop. 
+So far in your life, you have probably used your browser to troll the web and look at cats.  In our course you will learn to use your browser to edit, test, inspect, and debug code.  Any browser is fine for trolling, but not all browsers have the tools you need to develop. 
 
 
+* [chromium](https://www.chromium.org/getting-involved/download-chromium)
+* [chrome](https://support.google.com/chrome/answer/95346?co=GENIE.Platform%3DDesktop&hl=en)
 * [firefox](https://www.mozilla.org/en-US/firefox/new/)
 
 [TOP](#installations)
