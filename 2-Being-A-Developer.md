@@ -51,7 +51,7 @@ Before you dive into the hard stuff, it's worth taking a moment to get your head
 
 The Programmer's Oath:
 * @ Uncle Bob:  [Videos](https://www.youtube.com/watch?v=36NgPu9OyRM), [Text](https://blog.cleancoder.com/uncle-bob/2015/11/18/TheProgrammersOath.html)
-* [@ FreeCodeCamp](https://medium.freecodecamp.org/the-programmers-oath-db782efd958b)
+* [@ FreeCodeCamp](https://medium.com/free-code-camp/the-programmers-oath-db782efd958b)
 
 
 Absolute must-reads:  
